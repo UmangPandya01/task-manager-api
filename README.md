@@ -16,7 +16,7 @@ Following are some photos of this application.
 
 ![category](https://user-images.githubusercontent.com/78132661/130024717-4ed439bd-e6c7-43d8-b618-4357e3e07b57.png)
 
-![timer](https://user-images.githubusercontent.com/78132661/130024749-a28417e2-fc6a-42b4-91d2-4bfbd1050053.png)
+![timer](https://user-images.githubusercontent.com/78132661/130059335-1dde2e8b-db2e-405f-a867-2536df9efadd.png)
 
 ![empty](https://user-images.githubusercontent.com/78132661/130024771-e2d56cc1-1f9e-4b3d-82bf-a34ec7836891.png)
 
