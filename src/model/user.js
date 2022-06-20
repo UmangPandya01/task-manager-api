@@ -86,7 +86,8 @@ userSchema.methods.getAuthToken = async function () {
     const user = this
 
     //* for unique identifier here i provide _id
-    const token = jwt.sign({ _id: user._id.toString()} , process.env.JWT_SECRET, {expiresIn: '7 days'})
+    const token = jwt.sign({ _id: user._id.toString() },
+        process.env.JWT_SECRET, { expiresIn: '7 days' })
 
     user.tokens = user.tokens.concat({ token: token })
     await user.save()
